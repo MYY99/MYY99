@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mah Yuen Yee!
-- 👀 I’m interested in any kind of Artificial Intelligence! I have dabbled in Deep Learning (particularly for application in Computer Vision and time series analysis and forecasting), Machine Learning, and Robotics.
+- 👀 I’m interested in any kind of Artificial Intelligence! I have dabbled in Deep Learning (particularly for application in Computer Vision, time series analysis and forecasting), Machine Learning, and Robotics.
 - 🌱 I'm currently a Research Engineer specialized in machine learning applications.
 - 💞️ I'm actively seeking a junior-level position in the field of AI!
 - 📫 You can reach me via email at mahyuenyee99@gmail.com.
